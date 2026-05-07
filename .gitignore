@@ -2,3 +2,5 @@
 *.pdf
 datasets/*
 **/.conda
+checkpoints/*
+tensorboard/*
